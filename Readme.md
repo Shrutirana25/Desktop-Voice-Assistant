@@ -1,4 +1,4 @@
-#Desktop Personal AI Assistant
+# Desktop Personal AI Assistant
 
 It is an AI assistant designed to streamline tasks and enhance productivity through voice commands and automation. It is built using Python and integrates various modules for speech recognition, web browsing, task automation, and more.
 
